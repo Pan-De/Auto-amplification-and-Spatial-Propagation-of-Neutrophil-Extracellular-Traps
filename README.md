@@ -5,3 +5,8 @@ This repository holds the software for the research article Deng, P., Xu, A., Gr
 Contents: NET score calculation
 
 This code implements fluorescence images preprocessing, image segmentation and analysis.
+![image](https://github.com/user-attachments/assets/783c5344-7a75-4108-a5a2-8c9d6d09dfa5)
+![image](https://github.com/user-attachments/assets/78123b06-6443-4cda-bd67-25b80dba6510)
+
+
+
